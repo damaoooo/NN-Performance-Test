@@ -1,12 +1,19 @@
 # NN-Performance-Test
 
+## Test Results
+
 * Transformer: 5 Batch
 * CNN: All Batch
 
+### Laptop
 | Model | CPU     | NPU    | MPS  |
 | ----- | ------- | ------ | ---- | 
 | BERT  | 112.34s | 30.60s |      | 
 | CNN   | 30.41s  | 40.87s |      | 
+
+### Desktop
+CPU: 12700F
+GPU: 3080
 
 | Model | CPU    | 3080  |
 | ----- | ------ | ----- |
