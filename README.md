@@ -6,6 +6,8 @@
 * CNN: All Batch
 
 ### Laptop
+CPU/NPU: Ultra 7 258V
+MPS: M1 16G + 8C GPU
 | Model | CPU     | NPU    | MPS  |
 | ----- | ------- | ------ | ---- | 
 | BERT  | 112.34s | 30.60s |      | 
