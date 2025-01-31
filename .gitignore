@@ -6,3 +6,10 @@ data/
 
 # 忽略pycache
 __pycache__/
+
+cache/
+
+# 忽略.idea文件夹
+.idea/
+
+
